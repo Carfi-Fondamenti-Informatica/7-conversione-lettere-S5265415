@@ -5,3 +5,4 @@ bool caratteri(int n){
   }else {
     return false;
   }
+}
