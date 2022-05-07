@@ -1,2 +1,2 @@
 
-bool caratteri(int )
+bool caratteri(int );
